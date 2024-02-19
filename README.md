@@ -1,2 +1,2 @@
 ### Hi!👋, I'm Javi. Nice to see you 😄 !!! 
-![Banner](https://github.com/JaviVS7/JaviVS7/issues/1#issue-2143145585)
+![web-development-banner](https://github.com/JaviVS7/JaviVS7/assets/112435491/dee0011f-a1e8-412a-88e6-b881d7d524ff)
