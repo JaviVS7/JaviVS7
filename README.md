@@ -1,4 +1,4 @@
-# <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Javi. Nice to see you here 😄 !!! </h1>
+# <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Javi. Nice to see you 😄 !!! </h1>
 ![web-development-banner](https://github.com/JaviVS7/JaviVS7/assets/112435491/59e4c8e2-11be-47e5-baa7-c994e4fbc050)
 
 # 💫 About Me:
