@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!👋, I'm Javi. Nice to see you 😄 !!! 
 
 <!--
 **JaviVS7/JaviVS7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
