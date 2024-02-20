@@ -6,7 +6,7 @@
 const javi_codes = {
   frontEndDeveloper: true,
   code: [HTML, CSS, Javascript, Typescript, C, C++],
-  tools: [React, NodeJS, Styled-Components, Bootstrap, TailwindCSS, Docker],
+  tools: [React, NodeJS, Astro, Bootstrap, TailwindCSS, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
